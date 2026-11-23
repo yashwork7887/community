@@ -1,5 +1,4 @@
-# community
-# Community
+
 # Community App
 
 A full-stack social networking platform where users can create posts, comment, follow others, and more.
